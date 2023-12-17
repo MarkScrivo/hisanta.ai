@@ -3,18 +3,18 @@ import { CharacterType, CharacterTemplate } from './types';
 /** Defines the top-level application config. */
 const config = {
   siteName: 'Hisanta.ai',
-  siteDescription: 'Talk to Santa Claus and his friends.',
-  siteUrl: 'https://hisanta.ai',
+  siteDescription: 'Talk to Eric Frank.',
+  siteUrl: 'https://oddsoncompliance.com',
   githubUrl: 'https://github.com/fixie-ai/hisanta.ai',
-  referralUrl: 'https://fixie.ai',
+  referralUrl: 'https://playbook.oddsoncompliance.com',
   footerText: 'A Holiday Experiment by ',
   availableCharacters: [
     {
       characterId: 'santa',
-      name: 'Santa',
+      name: 'Eric Frank',
       image: 'eric2.png',
-      bio: "It's Santa.",
-      location: 'The North Pole',
+      bio: "It's Eric!.",
+      location: 'South Florida',
       ringtone: '/sounds/jinglebells.mp3',
       agentId: '5d37e2c5-1e96-4c48-b3f1-98ac08d40b9a',
       voiceId: 'Kp00queBTLslXxHCu1jq',
