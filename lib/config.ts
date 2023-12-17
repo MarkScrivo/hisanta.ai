@@ -12,7 +12,7 @@ const config = {
     {
       characterId: 'santa',
       name: 'Santa',
-      image: 'eric.png',
+      image: 'eric2.png',
       bio: "It's Santa.",
       location: 'The North Pole',
       ringtone: '/sounds/jinglebells.mp3',
