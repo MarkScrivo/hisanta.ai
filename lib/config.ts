@@ -2,8 +2,8 @@ import { CharacterType, CharacterTemplate } from './types';
 
 /** Defines the top-level application config. */
 const config = {
-  siteName: 'Hisanta.ai',
-  siteDescription: 'Talk to Eric Frank.',
+  siteName: 'OddsOnCompliance.com',
+  siteDescription: 'Talk to Santa Eric.',
   siteUrl: 'https://oddsoncompliance.com',
   githubUrl: 'https://github.com/fixie-ai/hisanta.ai',
   referralUrl: 'https://playbook.oddsoncompliance.com',
@@ -11,7 +11,7 @@ const config = {
   availableCharacters: [
     {
       characterId: 'santa',
-      name: 'Eric Frank',
+      name: 'Santa Eric',
       image: 'eric2.png',
       bio: "It's Eric!.",
       location: 'South Florida',
