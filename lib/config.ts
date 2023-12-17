@@ -12,7 +12,7 @@ const config = {
     {
       characterId: 'santa',
       name: 'Santa Eric',
-      image: 'eric2.png',
+      image: 'eric3.png',
       bio: "It's Eric!.",
       location: 'South Florida',
       ringtone: '/sounds/jinglebells.mp3',
@@ -52,7 +52,7 @@ const config = {
     {
       characterId: 'badsanta',
       name: 'Santa Eric',
-      image: 'eric2.png',
+      image: 'eric3.png',
       bio: "It's Santa Eric!",
       location: 'South Florida',
       ringtone: '/sounds/badjinglebells.mp3',
