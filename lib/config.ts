@@ -16,7 +16,7 @@ const config = {
       bio: "It's Eric!.",
       location: 'South Florida',
       ringtone: '/sounds/jinglebells.mp3',
-      agentId: 'e2259c06-2db6-4446-b4b9-12a0d2f6a0ca',
+      agentId: 'c34e5ce1-ab08-4db7-8180-45c48c689f85',
       voiceId: 'l6xRqLljNaZMMDK7gmvl',
     },
     {
