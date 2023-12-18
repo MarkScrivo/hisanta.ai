@@ -66,9 +66,9 @@ const StartNewCall = ({
         )}
       </div>
       <div className="m-4">
-        <EpicButton onClick={() => router.push(homeLink)} type="secondaryGreen" className="w-full">
-          Playbook
-        </EpicButton>
+        <EpicButton onClick={() => window.location.href='https://oddsoncompliance.com'} type="secondaryGreen" className="w-full">
+  Playbook
+</EpicButton>
       </div>
     </div>
   );
