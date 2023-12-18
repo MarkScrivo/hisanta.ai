@@ -186,8 +186,8 @@ export function CallFeedback({
                     <ShareCheckbox checked={shareClicked} onCheckedChange={setShareClicked} />
                   </div>
                 )}
-                <EpicButton onClick={() => window.location.href='https://oddsoncompliance.com'} type="secondaryGreen" className="w-full">
-  Playbook
+                <EpicButton onClick={() => window.location.href='https://meetings.hubspot.com/efrank2'} type="secondaryGreen" className="w-full">
+  Book a Meeting
 </EpicButton>
               </div>
             </DialogDescription>
