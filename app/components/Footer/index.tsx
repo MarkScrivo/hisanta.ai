@@ -25,7 +25,7 @@ function Experiment() {
     <div className="flex flex-row">
       <div className="text-slate-700 font-['Inter-SemiBold'] text-xs mr-2">{config.footerText}</div>
       <Link href={config.referralUrl}>
-        <Image src={FixieLogo} alt="Fixie Logo" width={60} height={20} />
+        <Image src={FixieLogo} alt="Odds On Compliance Logo" width={60} height={20} />
       </Link>
     </div>
   );
@@ -35,19 +35,19 @@ function FooterLinks() {
   return (
     <>
       <div className="text-slate-700 font-['Inter-SemiBold'] text-xs">
-        <Link href="https://careers.fixie.ai/">We&apos;re hiring!</Link>
+        <Link href="https://oddsoncompliance.com/">Check Us Out!</Link>
       </div>
       <Dot />
       <div className="text-slate-700 font-['Inter-SemiBold'] text-xs">
-        <Link href="https://fixie.ai/blog/hisanta-ai-the-future-is-voice">Learn more</Link>
+        <Link href="https://www.oddsoncompliance.com/aml-risk-assessment">Consulting Services</Link>
       </div>
       <Dot />
       <div className="text-slate-700 font-['Inter-SemiBold'] text-xs">
-        <Link href="https://fixie.ai/voice">Fixie Voice</Link>
+        <Link href="https://playbook.oddsoncompliance.com">Playbook</Link>
       </div>
       <Dot />
       <div className="text-slate-700 font-['Inter-SemiBold'] text-xs">
-        <Link href="https://fixie.ai/privacy">Privacy Policy</Link>
+        <Link href="https://prohibet.com">ProhiBet</Link>
       </div>
     </>
   );
