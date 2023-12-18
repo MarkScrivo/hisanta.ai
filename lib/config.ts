@@ -17,7 +17,7 @@ const config = {
       location: 'South Florida',
       ringtone: '/sounds/jinglebells.mp3',
       agentId: '497fb6a9-c6a6-4adf-bf46-9cdcb54f266c',
-      voiceId: 'tb9Rgoz1ryYKpuUG7mlL',
+      voiceId: '9hxup5dlD3lL0Wrr9zXK',
     },
     {
       characterId: 'mrs-claus',
