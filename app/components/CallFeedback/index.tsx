@@ -176,7 +176,7 @@ export function CallFeedback({
             </DialogTitle>
             <DialogDescription>
               <div className="mx-auto w-full flex flex-col gap-4">
-                <div className="mx-auto font-[Inter-Regular] text-sm">Your feedback will help make HiSanta better</div>
+                <div className="mx-auto font-[Inter-Regular] text-sm"></div>
                 <div className="mx-auto">
                   <GoodBadSelector good={good} bad={bad} onGoodChange={onGoodChange} onBadChange={onBadChange} />
                 </div>
