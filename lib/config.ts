@@ -56,7 +56,7 @@ const config = {
       bio: "It's Santa Eric!",
       location: 'South Florida',
       ringtone: '/sounds/badjinglebells.mp3',
-      agentId: 'e6ef8ebe-85ba-4b6e-b1a6-1a79849325f7',
+      agentId: '497fb6a9-c6a6-4adf-bf46-9cdcb54f266c',
       voiceId: 'tb9Rgoz1ryYKpuUG7mlL',
       bad: true,
     },
