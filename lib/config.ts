@@ -55,7 +55,7 @@ const config = {
       image: 'eric3.png',
       bio: "It's Santa Eric!",
       location: 'South Florida',
-      ringtone: '/sounds/badjinglebells.mp3',
+      ringtone: '/sounds/jinglebells.mp3',
       agentId: '74a49096-21c2-41f0-8106-3b183a975027',
       voiceId: 'l6xRqLljNaZMMDK7gmvl',
       bad: true,
